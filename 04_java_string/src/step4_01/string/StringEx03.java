@@ -77,8 +77,8 @@ public class StringEx03 {
 		System.out.println("=======================");
 		
 		//[5] 문자열 비교: compareTo()
-		str1 = "ac";
-		str2 = "dc";
+		str1 = "aa";
+		str2 = "ab";
 		str3 = "ac";
 		
 		System.out.println(str1.compareTo(str2)); // 왼쪽값(기준값)이 작을 경우 음수가 반환된다.
