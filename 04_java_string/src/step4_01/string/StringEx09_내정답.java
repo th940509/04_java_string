@@ -1,9 +1,9 @@
 package step4_01.string;
+//2021/04/06 15:30 ~ 16:16
 
 import java.util.Random;
 import java.util.Scanner;
 
-//2021/04/06 15:30 ~ 16:16
 /*
  * # 타자연습 게임[1단계]
  * 

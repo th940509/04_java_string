@@ -1,5 +1,6 @@
 package step4_01.string;
 //2021/04/06 17:00 ~ 17:20
+
 import java.util.Scanner;
 
 /*
@@ -74,11 +75,7 @@ public class StringEx11_내정답 {
 					}
 				}
 			}
-			
+		scan.close();
 		}
-
-
-
 	}
-
 }
